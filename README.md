@@ -6,3 +6,4 @@ Just paste the Base64 string and add the master or the IAP secret.
 
 ![Screenshot](https://raw.githubusercontent.com/clawoo/appstore-receipt-validator/master/Screenshots/Screenshot.png)
 
+Icon courtesy of https://flaticon.com
